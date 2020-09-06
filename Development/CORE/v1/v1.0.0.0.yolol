@@ -1,0 +1,20 @@
+h=1000000 e=1000 j="\n\nVel: "
+k=393347889 l=39666 m=100890 n=3395*10^6 o=58319
+p=114430000 q=18945 r=9809.3 s=1599 v=1000
+ox=-9940 oy=4900 oz=0
+:ma="station_hq_imperial_a" :mb="station_capital_imperial_a"
+:mc="station_hq_kingdom_a" :md="station_proving_grounds"
+
+d=:d :d=h-:s :tm=:ma dd=(:d-d)/8
+x=(:a^2+k-:c^2)/l y=-(:a^2+n-o*x -:d^2)/m z=-(:a^2+p-q*x-r*-y-:b^2)/s
+a=:a :a=h-:s :tm=:mb da=(:a-a)/8 :b+=6*db :c+=4*dc :d+=2*dd
+x=x+ox y=y+oy z=z+oz
+b=:b :b=h-:s :tm=:mc db=(:b-b)/8
+i=((x-xo)^2+(y-yo)^2+(z-zo)^2)^0.5/1.6 xo=x yo=y zo=z
+c=:c :c=h-:s :tm=:md dc=(:c-c)/8
+:pos="\nX: "+x/e*e+"\nY: "+y/e*e+"\nZ: "+z/e*e+j+i/e*e+"m/s" goto8
+
+
+
+// E.nav CORE v1.0.0.0
+// Developed by Senkii
