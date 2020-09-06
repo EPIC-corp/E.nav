@@ -14,7 +14,7 @@ E.nav v1.0 includes accurate position and velocity readings using a single recei
     - [About E.nav](/Documentation/CORE/README.md)
 - Development
     - [Readme](/Development/README.md)
-- Releases
+- Releases (kept up-to-date with most recent compatible Dev build)
     - [v1](/Releases/v1)
 
 ## Credits
