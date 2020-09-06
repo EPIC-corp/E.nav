@@ -25,5 +25,5 @@ E.nav v1.0 includes accurate position and velocity readings using a single recei
 |TheLegendOfWolf|Basically all the math
 |DukeIronhelm|Ideas for code, help with math
 |[1Solon](https://github.com/1Solon)|GitHub support
-|[Azurethi](https://github.com/Azurethi)|Code optimization, bugfixes
+|[Azurethi](https://github.com/Azurethi)|Code optimization, bug fixes
 |CYLON community|Help with YOLOL code
