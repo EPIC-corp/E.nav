@@ -14,13 +14,16 @@ E.nav v1.0 includes accurate position and velocity readings using a single recei
     - [About E.nav](/Documentation/CORE/README.md)
 - Development
     - [Readme](/Development/README.md)
-- Releases
+- Releases (kept up-to-date with most recent compatible Dev build)
     - [v1](/Releases/v1)
 
 ## Credits
 
 | User | Contribution |
-| [Senkii](https://github.com/Senkii-code "Discord: Senkii#0001")|Main code, optimizations, documentation
-| TheLegendOfWolf | Basically all the math |
-| DukeIronhelm | Ideas for code, help with math |
-| CYLON community | Help with YOLOL code |
+|-|-|
+|[Senkii](https://github.com/Senkii-code "Discord: Senkii#0001")|Main code, optimizations, documentation
+|TheLegendOfWolf|Basically all the math
+|DukeIronhelm|Ideas for code, help with math
+|[1Solon](https://github.com/1Solon)|GitHub support
+|[Azurethi](https://github.com/Azurethi)|Code optimization, bug fixes
+|CYLON community|Help with YOLOL code
